@@ -1,5 +1,5 @@
-module github.com/future-wd/hugo-responsive-images
+module github.com/Korben00/hugo-responsive-images
 
 go 1.16
 
-require github.com/future-wd/hugo-imaging-common v0.0.9 // indirect
+require github.com/Korben00/hugo-imaging-common v0.0.9 // indirect
